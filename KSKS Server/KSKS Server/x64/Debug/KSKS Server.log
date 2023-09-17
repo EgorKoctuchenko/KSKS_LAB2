@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+G:\Львовское Игра\Proj2\KSKS Server\KSKS Server\MyForm.h(235,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\KSKS Server\KSKS Server\MyForm.h(238,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\KSKS Server\KSKS Server\MyForm.h(241,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\KSKS Server\KSKS Server\MyForm.h(244,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\KSKS Server\KSKS Server\MyForm.h(247,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\KSKS Server\KSKS Server\MyForm.h(250,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\KSKS Server\KSKS Server\MyForm.h(257,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\KSKS Server\KSKS Server\MyForm.h(257,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\KSKS Server\KSKS Server\MyForm.h(622,61): warning C4101: e: неиспользованная локальная переменная
+G:\Львовское Игра\Proj2\KSKS Server\KSKS Server\MyForm.h(650,61): warning C4101: e: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  KSKS Server.vcxproj -> G:\Львовское Игра\Proj2\KSKS Server\x64\Debug\KSKS Server.exe
