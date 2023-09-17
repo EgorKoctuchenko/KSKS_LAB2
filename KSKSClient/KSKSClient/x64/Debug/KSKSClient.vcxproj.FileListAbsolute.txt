@@ -1,0 +1,3 @@
+G:\Львовское Игра\Proj2\KSKSClient\KSKSClient\x64\Debug\KSKSClient.vcxproj.AssemblyReference.cache
+G:\Львовское Игра\Proj2\KSKSClient\KSKSClient\x64\Debug\KSKSClient.MyForm.resources
+G:\Львовское Игра\Proj2\KSKSClient\KSKSClient\x64\Debug\KSKSClient.vcxproj.GenerateResource.cache
